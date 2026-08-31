@@ -994,7 +994,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .palette = gMonPalette_StaraptorMega,
         .shinyPalette = gMonShinyPalette_StaraptorMega,
         .iconSprite = gMonIcon_StaraptorMega,
-        //.iconPalIndex = 0,
+        .iconPalIndex = 0,
         .pokemonJumpType = PKMN_JUMP_TYPE_NONE,
         FOOTPRINT(Staraptor)
         SHADOW(-1, 13, SHADOW_SIZE_L)
